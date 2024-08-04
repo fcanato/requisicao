@@ -1,5 +1,8 @@
-streamlit
 pandas
 seaborn
 matplotlib
+openpyxl==3.1.2
+pandas==2.0.3
+streamlit==1.29.0
+xlsxwriter
 
